@@ -1,3 +1,13 @@
 2. Describa el significado de repositorio.
 R/. Un repositorio, depósito o archivo es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos.Los datos almacenados en un repositorio pueden distribuirse a través de una red informática, como Internet, o de un medio físico, como un disco compacto. Pueden ser de acceso público o estar protegidos y necesitar de una autentificación previa.
 Los repositorios más conocidos son los de carácter académico e institucional. Los repositorios suelen contar con sistemas de respaldo y mantenimiento preventivo y correctivo, lo que hace que la información se pueda recuperar en el caso que la máquina quede inutilizable.  A esto se lo conoce como preservación digital, y requiere un exhaustivo trabajo de control de calidad e integridad para realizarse correctamente.
+
+3. Aparte de GitHub, ¿Qué otras aplicaciones en la nube utilizamos para subir nuestros repositorios?
+R/. 1. Apache Allura
+Allura es un software de código abierto de Apache para la gestión de repositorios de código fuente, informes de errores, debates, páginas wiki, blogs y otros contenidos online.
+
+2. GitLab
+GitLab ofrece numerosas y útiles características en su DVCS, como, por ejemplo, un proyecto wiki integrado y una página web de proyecto.
+
+3.SourceForge
+SourceForge ofrece la autenticación multifactor, lo que armoniza con una orientación generalmente segura.
